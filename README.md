@@ -32,10 +32,6 @@ Feel free to:
 - Add more rows or columns
 - Enhance the CSS styles as needed
 
-## 📷 Screenshot
-
-*(Optional: You can add a screenshot of the rendered table here.)*
-
 ## 🧑‍💻 Author
 
 Created as part of a basic HTML and CSS exercise.
